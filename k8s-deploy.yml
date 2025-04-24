@@ -18,7 +18,7 @@ spec:
   spec:
    containers:
    - name: webappcontainer
-     image: psait/pankajsiracademy:latest
+     image: ranbir7232/test:latest
      ports:
      - containerPort: 9090
 ---
