@@ -10,7 +10,7 @@ public class HelloworldController {
 	@GetMapping("/message")
 	public String getMessage() {
 		
-		return "Hello Docker!! Deployed By Ranbir Sahu After scdeuling Poll SCM";
+		return "Hello Docker!! Deployed By Ranbir Sahu After scdeuling Poll SCM waooo its work fine";
 		
 	}
 	
